@@ -30,9 +30,30 @@ If you run `install-all-dotnet.ps1` directly, these options are available:
 - `-InstallDotnetRuntime` install .NET runtime
 - `-Quiet` reduce output
 
------
+---
 
-# All files included have been scanned for malware from VirusTotal. Links to each scan are below. We can 100% confirm you will not recieve a virus from downloading these files. All files are from microsoft.com, and no other third parties.
-https://www.virustotal.com/gui/file/a7f70f7ab5f56e6d50837be3f15d74b0266e00966be53ff775377e2e3058a43a
-https://www.virustotal.com/gui/file/ce5330422f1d3e9b3d46462a24ef7105f660ec6c67ef3f5d4ae05b7259fb4234
-Files will be updated accordingly with each Windows release. Each release is final per the next windows release. **Not including Windows UPDATES**
+## ✅ Security & Provenance
+
+All files in this repository have been checked with **VirusTotal**. At the time of scanning, the reports show **no detections**.
+
+**Source:** These installers are obtained from **official Microsoft distribution endpoints (`microsoft.com`)** — no third-party hosts.
+
+### VirusTotal reports
+- https://www.virustotal.com/gui/file/a7f70f7ab5f56e6d50837be3f15d74b0266e00966be53ff775377e2e3058a43a
+- https://www.virustotal.com/gui/file/ce5330422f1d3e9b3d46462a24ef7105f660ec6c67ef3f5d4ae05b7259fb4234
+
+## 🔄 Update policy
+
+Files are updated **per Windows feature release** (e.g., 23H2 → 24H2).  
+Each “release” here corresponds to the latest finalized files available at that time.
+
+> Note: This does **not** include ongoing Windows cumulative/security updates (monthly patches).
+
+## 🛡️ Important note
+
+Even with clean VirusTotal results, you should always:
+- re-scan on your own system if you want extra assurance
+
+These files are provided for convenience and are used **at your own risk**.
+
+---
