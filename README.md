@@ -29,3 +29,10 @@ If you run `install-all-dotnet.ps1` directly, these options are available:
 - `-InstallAspNetRuntime` install ASP.NET runtime
 - `-InstallDotnetRuntime` install .NET runtime
 - `-Quiet` reduce output
+
+-----
+
+# All files included have been scanned for malware from VirusTotal. Links to each scan are below. We can 100% confirm you will not recieve a virus from downloading these files. All files are from microsoft.com, and no other third parties.
+https://www.virustotal.com/gui/file/a7f70f7ab5f56e6d50837be3f15d74b0266e00966be53ff775377e2e3058a43a
+https://www.virustotal.com/gui/file/ce5330422f1d3e9b3d46462a24ef7105f660ec6c67ef3f5d4ae05b7259fb4234
+Files will be updated accordingly with each Windows release. Each release is final per the next windows release. **Not including Windows UPDATES**
