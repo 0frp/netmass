@@ -1,4 +1,4 @@
-# blessd.lol
+# netmass
 
 ## .NET mass installer
 
